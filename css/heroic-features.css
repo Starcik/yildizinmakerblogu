@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+    background-image: url(aaa.jpg);
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.jumbotron.my-4 {
+    background-color: rgba(255, 255, 255, 0.87);
+    border: 0.5px solid rgba(0, 0, 0, 0.03);
+}
+
+.center {
+    margin:auto;
+    display: block;
+    color:red;
+}
+
+.patlican {
+  min-width: 100%;
+  height: auto;
+}
+
